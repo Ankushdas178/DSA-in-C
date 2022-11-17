@@ -1,2 +1,4 @@
 # DSA-in-C
-Data Structure and Algorithm codes in C.
+<h3>Data Structure and Algorithm codes in C.</h3>
+
+* Being Updated regularly.
