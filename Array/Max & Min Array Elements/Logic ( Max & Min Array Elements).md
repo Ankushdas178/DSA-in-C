@@ -7,4 +7,5 @@
 
 <hr>
 
-<img align="center" width="500" alt="Screenshot 2022-11-18 at 12 21 29 AM" src="https://user-images.githubusercontent.com/58916385/202533557-a463f814-c287-452c-9d8b-d483fc438c80.png">
+<img align="center" width="500" src="https://user-images.githubusercontent.com/58916385/202546182-8e43a84f-1c05-438d-b412-93ace474fc90.png">
+
