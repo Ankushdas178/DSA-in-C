@@ -18,6 +18,8 @@
 6. If the loop over and data not found then return -1 that means data doesn't exist
 > **Note:** The array should be sorted in ascending to descending order
 
+
+
 ## Example
 
 Input: **10,20,30,40,50**
@@ -34,4 +36,4 @@ Output: **1**
 
 ## Implementation
 
-- Find the code [here]().
+- Find the code [here](https://github.com/Ankushdas178/DSA-in-C/blob/main/Searching/Binary%20Search/Code%20(Binary%20Search).c).
