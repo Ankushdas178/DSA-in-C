@@ -18,6 +18,7 @@
 6. If the loop over and data not found then return -1 that means data doesn't exist
 > **Note:** The array should be sorted in ascending to descending order
 
+<img align="center" width="500" src="https://user-images.githubusercontent.com/58916385/202792774-61cf5b39-2e6c-4ae1-a874-6b5ca91d8f5b.png">
 
 
 ## Example
