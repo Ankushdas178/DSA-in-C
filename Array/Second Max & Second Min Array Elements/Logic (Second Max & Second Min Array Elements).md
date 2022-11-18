@@ -19,4 +19,4 @@
 
 # Implementation
 
-- Find the code [here]().
+- Find the code [here](https://github.com/Ankushdas178/DSA-in-C/blob/main/Array/Second%20Max%20%26%20Second%20Min%20Array%20Elements/Code%20(%20Second%20Max%20%26%20Second%20Min%20Array%20Elements).c).
