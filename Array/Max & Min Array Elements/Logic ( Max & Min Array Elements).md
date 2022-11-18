@@ -1,4 +1,4 @@
-### Below is the step by step descriptive logic to find maximum or minimum in array:
+## Below is the step by step descriptive logic to find maximum or minimum in array:
 
 * 1. Input size and element in array, store it in some variable say `size` and `arr`.
 * 2. Declare two variables `max` and `min` to store maximum and minimum. Assume first array element as maximum and minimum both, say `max = arr[0]` and `min = arr[0]`.
@@ -9,3 +9,6 @@
 
 <img align="center" width="500" src="https://user-images.githubusercontent.com/58916385/202546182-8e43a84f-1c05-438d-b412-93ace474fc90.png">
 
+# Implementation
+
+- Find the code [here](https://github.com/Ankushdas178/DSA-in-C/blob/main/Array/Max%20%26%20Min%20Array%20Elements/Code%20(max%20%26%20min%20array%20elements).c).
