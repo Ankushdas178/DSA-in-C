@@ -44,4 +44,4 @@
 
 ## Implementation:
 
-* Find the code [here]().
+* Find the code [here](https://github.com/Ankushdas178/DSA-in-C/blob/main/Sorting/Quick%20Sort/Code%20(Quick%20Sort).c).
