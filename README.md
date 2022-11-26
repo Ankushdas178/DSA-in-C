@@ -7,4 +7,5 @@
 
 * [Array](https://github.com/Ankushdas178/DSA-in-C/tree/main/Array)
 * [Searching](https://github.com/Ankushdas178/DSA-in-C/tree/main/Searching)
+* [Sorting](https://github.com/Ankushdas178/DSA-in-C/tree/main/Sorting)
 
