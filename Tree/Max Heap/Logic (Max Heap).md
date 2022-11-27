@@ -18,6 +18,7 @@ The following operations are performed on a Max heap data structure:
 Finding the node which has maximum value in a max heap is very simple. In a max heap, the root node has the maximum value than all other nodes. So, directly we can display root node value as the maximum value in max heap.
 
 ### Insertion Operation in Max Heap
+<hr>
 Insertion Operation in max heap is performed as follows:
 
 - Step 1 - Insert the `newNode` as `last leaf` from left to right.
@@ -29,6 +30,7 @@ Insertion Operation in max heap is performed as follows:
 - Step 4 - Repeat step 2 and step 3 until `newNode value` is less than its `parent node` (or) `newNode` reaches to root.
 
 ### Deletion Operation in Max Heap
+<hr>
 In a max heap, deleting the last node is very simple as it does not disturb max heap properties.
 
 Deleting root node from a max heap is little difficult as it disturbs the max heap properties. We use the following steps to delete the root node from a max heap...
